@@ -1,14 +1,6 @@
 # utilmy
-Thousand of one-liners for Data Science
+Thousand of one-liners.
 
 
-
-How to find find functions ?
-
-Just Ctrl + F on that file:
-
-
-https://github.com/arita37/utilmy/blob/doc/index_all_functions.py
-
-
+Please report Bugs in Issues
 
