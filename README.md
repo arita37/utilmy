@@ -1,6 +1,8 @@
-# utilmy
-Thousand of one-liners.
+# utilmy : 1000's of utilities
 
+This is a placeholder for utilmy repo.
 
-Please report Bugs in Issues
+To access it, please follow me here:
+
+https://tinyurl.com/4htv2skc
 
